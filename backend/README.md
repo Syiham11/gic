@@ -23,7 +23,8 @@
 - example post { "name":"jakarta", "email":"budi@mail.com", "tlp":"08382233030" }
 
 #Step Run Backend
-import db,
-setting db in folder config
-npm install
-node server.js or nodemon server.js
+
+- import db,
+- setting db in folder config
+- npm install
+- node server.js or nodemon server.js
