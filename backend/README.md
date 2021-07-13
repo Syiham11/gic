@@ -13,11 +13,12 @@
 - folder route this use route endpoint API
 
 #List api
-http://localhost:3000/kontaks (method:get)
-http://localhost:3000/kontaks/1 (method:get by id)
-http://localhost:3000/kontaks/1 (method:put)
-http://localhost:3000/delete/1 (method:delete)
-http://localhost:3000/kontaks (method:post)
+
+- http://localhost:3000/kontaks (method:get)
+- http://localhost:3000/kontaks/1 (method:get by id)
+- http://localhost:3000/kontaks/1 (method:put)
+- http://localhost:3000/delete/1 (method:delete)
+- http://localhost:3000/kontaks (method:post)
 
 - example post { "name":"jakarta", "email":"budi@mail.com", "tlp":"08382233030" }
 
